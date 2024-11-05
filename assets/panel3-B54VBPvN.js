@@ -1,0 +1,1 @@
+const e=""+new URL("panel1-BuxhCIhe.mp4",import.meta.url).href,n=""+new URL("logoweb-C1Uj9RHM.png",import.meta.url).href,p=""+new URL("panel3-DSS4NngD.png",import.meta.url).href;export{p as a,n as l,e as p};
